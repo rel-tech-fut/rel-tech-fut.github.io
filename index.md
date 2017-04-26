@@ -3,7 +3,7 @@
 ## What is pattern recognition?
 
 In order to successfully navigate our environments, we need to make sense of all of the sensory information availible to us. 
-
+![Senses](sens.jpg)
 
 ## What patterns stand out the most to humans?
 
