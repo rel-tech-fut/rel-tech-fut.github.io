@@ -1,9 +1,12 @@
 # Pattern Recognition
 
+[What is pattern recognition](#What is pattern recognition)| Second Header
+
 ## What is pattern recognition?
 
 In order to successfully navigate our environments, we need to make sense of all of the sensory information availible to us. 
 ![Senses](sens.jpg)
+
 
 ## What patterns stand out the most to humans?
 
@@ -28,13 +31,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rel-tech-fut/rel-tech-fut.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
