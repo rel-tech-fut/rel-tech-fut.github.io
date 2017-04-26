@@ -2,9 +2,14 @@
 
 ## What is pattern recognition?
 
+In order to successfully navigate our environments, we need to make sense of all of the sensory information availible to us. 
+
+
 ## What patterns stand out the most to humans?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Faces
+
+### The 
 
 ```markdown
 Syntax highlighted code block
