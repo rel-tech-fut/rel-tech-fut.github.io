@@ -1,6 +1,6 @@
 # Pattern Recognition
 
-[What is pattern recognition](#What is pattern recognition)| Second Header
+[Introduction](#What-is-pattern-recognition)| Second Header
 
 ## What is pattern recognition?
 
