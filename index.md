@@ -1,4 +1,4 @@
-###### Pattern Recognition
+#### Pattern Recognition
 
 ## What is pattern recognition?
 
