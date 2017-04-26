@@ -1,10 +1,8 @@
-## Pattern Recognition
+###### Pattern Recognition
 
-You can use the [editor on GitHub](https://github.com/rel-tech-fut/rel-tech-fut.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## What is pattern recognition?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## What patterns stand out the most to humans?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
