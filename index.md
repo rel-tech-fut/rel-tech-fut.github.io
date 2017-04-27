@@ -21,8 +21,9 @@ The occipital lobe contains different types of neurons that fire depending on di
 
 #### This figure illustrates the organization of the orientation columns in the brain.
 
-![Retinotopic Mapping](map.jpg)
+In 1982, Roger Tootell conducted an experiment which showed that neurons in these specialized regions of occipital lobe will fire in a way that corresponds to the actual perceived shapes. 
 
+![Retinotopic Mapping](map.jpg)
 
 ### **Example** 
 Index | Image
