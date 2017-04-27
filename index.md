@@ -1,6 +1,6 @@
 ![](stairs.png)
 # Pattern Recognition
-
+![](cude.png)
 [What is pattern recognition?](## What-is-pattern-recognition?) | [Interactive](##Try-it)
 [What patterns stand out the most to humans?](##-What-is-pattern-recognition?) | [Interactive](##Try-it)
 [What about artificial intelligence?](## What-is-pattern-recognition?) | [Interactive](##Try-it)
