@@ -31,7 +31,7 @@ In 1982, Roger Tootell conducted an experiment which showed that neurons in thes
 
 Although scientists do not have a perfectly clear understanding on the way the brain learns to assign meaning to visual objects, they do know that the occipital lobe works in conjunction with the temporal and frontal lobes to do so. The [temporal lobe](http://www.spinalcord.com/temporal-lobe) is important to memory formation, and the [frontal lobe](http://www.spinalcord.com/frontal-lobe) is vital to reasoning and learning. Still, it is clear that learning to recognize visual patterns in our environments is the only way we are able to understand what we see.
 
-### **Optical Illusions** 
+### **Optical Illusions: Lines and Angles** 
 
 These optical illusions stimulate the orientation columns in our occipital lobes becuase they involve lines and angles.
 
@@ -45,14 +45,15 @@ Angles and lines like these usually signal a 3-D triangle that is actually possi
 
 ### Faces
 
-### **Optical Illusions** 
+### **Optical Illusions: Faces** 
 
-These optical illusions 
-I | Image
+These optical illusions demonstrate how readily we perceive faces in objects.
+
+Object | Image
 ------------ | -------------
-1 | Content from cell 2
-2 | Content in the second column
-3 | Content from cell 2
+Rock | ![rock](rock.jpg)
+Washer | ![w](washer.jpg)
+Flying Birds | ![fb](bird.jpg)
 
 ### The Moral Pop-Out Effect
 
