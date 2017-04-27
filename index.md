@@ -118,7 +118,7 @@ Fish | Image
 Oscar | ![f](oscar372.jpg)
 
 # 3
-## What about artificial intelligence?
+# What about artificial intelligence?
 
 ```markdown
 Syntax highlighted code block
