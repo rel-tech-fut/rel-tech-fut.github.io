@@ -78,6 +78,8 @@ Recent [research](https://www.ncbi.nlm.nih.gov/pubmed/24747444) by Gantman and V
 
 It is important to note, however, that there is still [debate](http://perception.yale.edu/papers/16-Firestone-Scholl-TICS.pdf) about the moral pop-out effect. Scientists still need to conduct more research on the topic.
 
+Still, there is no denying that people frequently see religious and moral images in everyday objects.
+
 ### **Optical Illusions: Religious Images** 
 
 Here are a few examples of foods in which people have perceived the image of Jesus.
