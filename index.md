@@ -174,7 +174,6 @@ def getCentroids(dataSet, labels, k):
 
 <img src="lin.png" height="400" width="500">
 
-Liner classification in
-
+Linear classification aims to find an equation for a line such that it can accurately divide data points into categories. This means that different weights must be tested in the equation to see which of them creates the equation that can classify data best.
 
 
