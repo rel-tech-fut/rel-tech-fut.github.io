@@ -1,15 +1,9 @@
-![](stairs.jpg)
+![](stairs.png)
 # Pattern Recognition
 
 [What is pattern recognition?](## What-is-pattern-recognition?) | [Interactive](##Try-it)
 [What patterns stand out the most to humans?](##-What-is-pattern-recognition?) | [Interactive](##Try-it)
 [What about artificial intelligence?](## What-is-pattern-recognition?) | [Interactive](##Try-it)
-
-![d](cude.png) | ![b](stairs.png)
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
 
 
 ## What is pattern recognition?
@@ -25,7 +19,33 @@ Pattern recognition is an integral part of all human thought because it heavily 
 
 
 
-## Try it! 
+### **Try it!** 
+Index | Image
+------------ | -------------
+1 | Content from cell 2
+2 | Content in the second column
+3 | Content from cell 2
+4 | Content in the second column
+5 | Content from cell 2
+6 | Content in the second column
+7 | Content from cell 2
+8 | Content in the second column
+9 | Content from cell 2
+10 | Content in the second column
+
+
+Index | Image
+------------ | -------------
+1 | Content from cell 2
+2 | Content in the second column
+3 | Content from cell 2
+4 | Content in the second column
+5 | Content from cell 2
+6 | Content in the second column
+7 | Content from cell 2
+8 | Content in the second column
+9 | Content from cell 2
+10 | Content in the second column
 
 ## What patterns stand out the most to humans?
 
