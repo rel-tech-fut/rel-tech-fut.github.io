@@ -1,7 +1,8 @@
 ![](stairs.png)
+<img src="cude.png" height="25">
 # Pattern Recognition
 ![](cude.png)
-<img src="cude.png" width="8">
+<img src="cude.png" height="25">
 
 [What is pattern recognition?](## What-is-pattern-recognition?) | [Interactive](##Try-it)
 [What patterns stand out the most to humans?](##-What-is-pattern-recognition?) | [Interactive](##Try-it)
