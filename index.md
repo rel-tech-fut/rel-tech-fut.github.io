@@ -72,6 +72,9 @@ Recent [research](https://www.ncbi.nlm.nih.gov/pubmed/24747444) by Gantman and V
  >we term the moral pop-out effect. The moral pop-out effect was only evident when stimuli were 
  >presented at durations that made them perceptually ambiguous, but not when the stimuli were presented too quickly to perceive or slowly enough to easily perceive. 
   >The moral pop-out effect was not moderated by exposure to harm and cannot be explained by differences in arousal, valence, or extremity
+  
+  Here is a graph from their study showing the way moral words were categorized correctly more frequently than non moral words:
+  ![graph](graph.png)
 
 It is important to note, however, that there is still [debate](http://perception.yale.edu/papers/16-Firestone-Scholl-TICS.pdf) about the moral pop-out effect. Scientists still need to conduct more research on the topic.
 
