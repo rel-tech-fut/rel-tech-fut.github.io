@@ -1,6 +1,6 @@
 <img src="stairs.png" height="50" width ="2000">
 
-# 🏁🏁 Pattern Recognition 🏁🏁
+# 🏁🏁🏁 Pattern Recognition 🏁🏁🏁
 
 <img src="cude.png" height="50" width="2000">
 
@@ -12,7 +12,7 @@ Although all animals beings use pattern recognition as a way to understand their
 
 ![Senses](sens.jpg)
 
-Pattern recognition is an integral part of all human thought because it heavily influences the way humans perceive and interact with the world. The role pattern recognition plays in the way 
+Pattern recognition is an integral part of all human thought because it heavily influences the way humans perceive and interact with the world. To illustrate this, we can explore the role pattern recongition plays on the way humans *see*.
 
 ### **Example** 
 Index | Image
