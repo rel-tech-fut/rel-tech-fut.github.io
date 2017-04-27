@@ -45,6 +45,7 @@ Angles and lines like these usually signal a 3-D triangle that is actually possi
 
 ### Faces
 
+
 ### **Optical Illusions: Faces** 
 
 These optical illusions demonstrate how readily we perceive faces in objects.
@@ -59,7 +60,7 @@ Flying Birds | ![fb](bird.jpg)
 
 It is important to note, however, that there is still [debate](http://perception.yale.edu/papers/16-Firestone-Scholl-TICS.pdf) about the moral pop-out effect. Scientists still need to conduct more research on the topic.
 
-### **Optical Illusions** 
+### **Optical Illusions: Religious Images** 
 
 Here are a few examples of foods in which people have perceived the image of Jesus.
 
@@ -69,9 +70,13 @@ Toast | ![tst](toast.jpg)
 Orange | ![orange](orange.jpg)
 Pizza | ![pizza](pizza.jpg)
 
-This phenomena is not limited to Christian cultures. In Islamic cultures, there are often reports of appearances of Arabic religious words on objects as well. This is a [fish](https://www.theguardian.com/uk/2006/feb/02/paullewis) called "Allah."
+This phenomena is not limited to Christian cultures. In Islamic cultures, there are often reports of appearances of Arabic religious words on objects as well. This is a [wiki page](https://wikiislam.net/wiki/Allah_Written_In_or_On_Various_Things) dedicated to appearances of the word "Allah" on various objects.
 
+This is a [fish](https://www.theguardian.com/uk/2006/feb/02/paullewis) with markings many believed spelled "Allah."
 
+Fish | Image
+------------ | -------------
+Oscar | ![f](oscar372.jpg)
 
 ## What about artificial intelligence?
 
