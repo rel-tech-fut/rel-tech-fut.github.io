@@ -14,7 +14,7 @@ Although all animals beings use pattern recognition as a way to understand their
 
 Pattern recognition is an integral part of all human thought because it heavily influences the way humans perceive and interact with the world. To illustrate this, we can explore the role pattern recognition plays on the way humans *see*.
 
-### *Sight* 
+### **Example: Sight**
 Scientists know that the [occipital lobe](http://www.spinalcord.com/occipital-lobe) is the region of the brain that is primarily responsible for processing visual information. 
 
 ![Retinotopic Mapping](map.jpg)
