@@ -120,10 +120,11 @@ Oscar | ![f](oscar372.jpg)
 # 3
 # What about artificial intelligence?
 >“Reverse-engineering the human brain may be regarded as the most important project in the universe.”
-
 > -Ray Kurzweil
 
 Futurist Ray Kurzweil [believes](http://www.newyorker.com/books/page-turner/ray-kurzweils-dubious-new-theory-of-mind) that understanding the way the human brain recognizes patterns may be the key to creating truly powerful artificial intelligence  that will change the course of humanity. 
+
+Currently, however, neuroscientists are still having trouble understanding the brain, and computer scientists are struggling to create machine learning algorithms that recognize patterns as well as humans do. 
 
 ```markdown
 Syntax highlighted code block
