@@ -1,6 +1,6 @@
 <img src="stairs.png" height="50" width ="2000">
 
-# 🏁🏁🏁 Pattern Recognition 🏁🏁🏁
+<div style="text-align: center"> Pattern Recognition </div>
 
 <img src="cude.png" height="50" width="2000">
 
