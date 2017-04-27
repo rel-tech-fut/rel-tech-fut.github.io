@@ -40,8 +40,6 @@ In 1982, Roger Tootell conducted an experiment which showed that neurons in thes
 
 Although scientists do not have a perfectly clear understanding on the way the brain learns to assign meaning to visual objects, they do know that the occipital lobe works in conjunction with the temporal and frontal lobes to do so. The [temporal lobe](http://www.spinalcord.com/temporal-lobe) is important to memory formation, and the [frontal lobe](http://www.spinalcord.com/frontal-lobe) is vital to reasoning and learning. Still, it is clear that learning to recognize visual patterns in our environments is the only way we are able to understand what we see.
 
-
-
 ### **Optical Illusions: Lines and Angles** 
 
 These optical illusions stimulate the orientation columns in our occipital lobes becuase they involve lines and angles.
@@ -68,8 +66,6 @@ Newborn babies preferred the face-like image.| ![bu](bu.jpg)
 
 Scientists are still [unsure](https://pdfs.semanticscholar.org/83c7/c6cf8db20dc68981a076f8ed554916ce2c8e.pdf) about whether face recognition follows the same path as regular object recognition. However, the existence of Prosopagnosia seems to indicate that there is something unique about face recognition. [Prosopagnosia](https://en.wikipedia.org/wiki/Prosopagnosia) patients only have trouble recognizing familiar faces, not other objects.
 
-
-
 ### **Optical Illusions: Faces** 
 
 These optical illusions demonstrate how readily we perceive faces in objects.
@@ -79,9 +75,6 @@ Object | Image
 Rock | ![rock](rock.jpg)
 Washer | ![w](washer.jpg)
 Flying Birds | ![fb](bird.jpg)
-
-
-
 
 ### The Moral Pop-Out Effect
 
@@ -98,7 +91,6 @@ Recent [research](https://www.ncbi.nlm.nih.gov/pubmed/24747444) by Gantman and V
 It is important to note, however, that there is still [debate](http://perception.yale.edu/papers/16-Firestone-Scholl-TICS.pdf) about the moral pop-out effect. Scientists still need to conduct more research on the topic.
 
 Still, there is no denying that people frequently see religious and moral images in everyday objects.
-
 
 ### **Optical Illusions: Religious Images** 
 
@@ -117,8 +109,6 @@ This is a [fish](https://www.theguardian.com/uk/2006/feb/02/paullewis) with mark
 Fish | Image
 ------------ | -------------
 Oscar | ![f](oscar372.jpg)
-
-
 
 # 3
 ## What about artificial intelligence?
