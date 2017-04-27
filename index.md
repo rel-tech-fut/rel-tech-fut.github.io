@@ -5,7 +5,8 @@ Pattern Recognition
 <img src="cude.png" height="50" width="2000">
 
 [Section 1](#Section-1)
-[Section 2](#Section-1)
+[Section 2](#Section-2)
+[Section 3](#Section-3)
 
 # Section 1
 ## What is pattern recognition?
@@ -103,6 +104,7 @@ Fish | Image
 ------------ | -------------
 Oscar | ![f](oscar372.jpg)
 
+# Section 3
 ## What about artificial intelligence?
 
 ```markdown
