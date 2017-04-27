@@ -58,7 +58,8 @@ Jump to:
 
 [Section A: Faces](#A)
 
-[Section B: The Moral Pop-Out Effecy](#B)
+[Section B: The Moral Pop-Out Effect](#B)
+
 # A
 # Faces
 
