@@ -15,7 +15,7 @@ Pattern recognition is an integral part of all human thought because it heavily 
 ### **Example: Sight**
 Scientists know that the [occipital lobe](http://www.spinalcord.com/occipital-lobe) is the region of the brain primarily responsible for processing visual information. 
 
-The occipital lobe contains different types of neurons that fire depending on different types of visual stimuli. For example, the orientation columns of the occipital cortex contain neurons that specialize in detecting the angles of lines. These neurons allow animals to outline the boundaries of shapes, which allows animals to perceive the shapes of objects.
+The occipital lobe contains different types of neurons that fire depending on different types of visual stimuli. For example, the orientation columns of the occipital cortex contain neurons that specialize in detecting the angles of lines. These neurons allow animals to outline the boundaries of shapes, which allows animals to perceive the shapes of objects. 
 
 ![Orientation Columns](col.jpg)
 
@@ -27,9 +27,7 @@ In 1982, Roger Tootell conducted an experiment which showed that neurons in thes
 
 #### Images from [Tootell’s experiment](http://science.sciencemag.org/content/218/4575/902) 
 
-
-
-
+Although scientists do not have a perfectly clear understanding on the way the brain learns to assign meaning to visual objects, they do know that the occipital lobe works in conjuction with the temporal and frontal lobes to do so. 
 
 ### **Example** 
 Index | Image
