@@ -176,6 +176,8 @@ def getCentroids(dataSet, labels, k):
 
 Linear classification aims to find an equation for a line such that it can accurately divide data points into categories. This means that different weights must be tested in the equation to see which of them creates the equation that can classify data best. To minimize the amount of error, it is useful to take the derivative of the error function of the equation and find the global minimum of that derivative. To find the minimum, many use a technique called **gradient descent**.
 
+[Click here](http://vis.supstat.com/2013/03/gradient-descent-algorithm-with-r/) to see an animation of gradient descent.
+
 Once again, the exact implementation may vary. Here is one from a [tutorial](https://www.analyticsvidhya.com/blog/2017/03/introduction-to-gradient-descent-algorithm-along-its-variants/) by Faizan Shaikh.
 ```markdown
 params = [weights_hidden, weights_output, bias_hidden, bias_output]
