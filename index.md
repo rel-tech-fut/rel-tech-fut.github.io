@@ -1,7 +1,7 @@
 <img src="stairs.png" height="50" width ="2000">
-<p align="center">
-#Pattern Recognition
-</p>
+<h1 align="center">
+Pattern Recognition
+</h1>
 <img src="cude.png" height="50" width="2000">
 
 ## What is pattern recognition?
