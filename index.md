@@ -21,13 +21,13 @@ The occipital lobe contains different types of neurons that fire depending on di
 
 #### This figure illustrates the organization of the orientation columns in the brain.
 
-In 1982, Roger Tootell conducted an experiment which showed that neurons in these specialized regions of occipital lobe will fire in a way that corresponds to the actual perceived shapes. The images below show the way a section of the occipital lobe resembles the visual stimulus.
+In 1982, Roger Tootell conducted an experiment which showed that neurons in these specialized regions of occipital lobe will fire in a way that corresponds to the actual perceived shapes. The images below show the way a section of the occipital lobe resembles the visual stimulus. This shows that the visual patterns we see in the real world are the same patterns our neurons create when they fire. The brain learns to recognize these patterns and makes inferences based on these patterns.
 
 ![Retinotopic Mapping](map.jpg)
 
 #### Images from [Tootell’s experiment](http://science.sciencemag.org/content/218/4575/902) 
 
-Although scientists do not have a perfectly clear understanding on the way the brain learns to assign meaning to visual objects, they do know that the occipital lobe works in conjuction with the temporal and frontal lobes to do so. The [temporal lobe](http://www.spinalcord.com/temporal-lobe) is important in the process of memory formation, and the [frontal lobe](http://www.spinalcord.com/frontal-lobe) is vital to reasonaning and learning. 
+Although scientists do not have a perfectly clear understanding on the way the brain learns to assign meaning to visual objects, they do know that the occipital lobe works in conjunction with the temporal and frontal lobes to do so. The [temporal lobe](http://www.spinalcord.com/temporal-lobe) is important to memory formation, and the [frontal lobe](http://www.spinalcord.com/frontal-lobe) is vital to reasoning and learning. Still, it is clear that learning to recognize visual patterns in our environments is the only way we are able to understand what we see.
 
 ### **Example** 
 Index | Image
