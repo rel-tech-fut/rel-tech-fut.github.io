@@ -87,10 +87,10 @@ Flying Birds | ![fb](bird.jpg)
 
 Recent [research](https://www.ncbi.nlm.nih.gov/pubmed/24747444) by Gantman and Van Bavel seems to indicate that people perceive religious and moral images more readily than other types of images.
 
- >Participants correctly identified moral words more frequently than non-moral words-a phenomenon 
+ >"Participants correctly identified moral words more frequently than non-moral words-a phenomenon 
  >we term the moral pop-out effect. The moral pop-out effect was only evident when stimuli were 
  >presented at durations that made them perceptually ambiguous, but not when the stimuli were presented too quickly to perceive or slowly enough to easily perceive. 
-  >The moral pop-out effect was not moderated by exposure to harm and cannot be explained by differences in arousal, valence, or extremity
+  >The moral pop-out effect was not moderated by exposure to harm and cannot be explained by differences in arousal, valence, or extremity."
   
   Here is a graph from their study showing the way moral words were categorized correctly more frequently than non moral words:
   ![graph](graph.png)
@@ -119,6 +119,10 @@ Oscar | ![f](oscar372.jpg)
 
 # 3
 # What about artificial intelligence?
+>“Reverse-engineering the human brain may be regarded as the most important project in the universe.” 
+> -Ray Ray Kurzweil
+
+Futurist Ray Kurzweil [believes](http://www.newyorker.com/books/page-turner/ray-kurzweils-dubious-new-theory-of-mind) that understanding the way the human brain recognizes patterns may be the key to creating truly powerful artificial intelligence  that will change the course of humanity. 
 
 ```markdown
 Syntax highlighted code block
