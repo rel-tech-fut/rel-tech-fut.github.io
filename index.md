@@ -1,6 +1,6 @@
-<img src="stairs.png" height="25" width ="5000">
+<img src="stairs.png" height="250" width ="2000">
 # Pattern Recognition
-<img src="cude.png" height="25" width="5000">
+<img src="cude.png" height="250" width="2000">
 
 [What is pattern recognition?](## What-is-pattern-recognition?) | [Interactive](##Try-it)
 [What patterns stand out the most to humans?](##-What-is-pattern-recognition?) | [Interactive](##Try-it)
