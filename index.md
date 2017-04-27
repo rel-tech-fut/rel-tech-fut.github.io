@@ -9,9 +9,9 @@ Content in the first column | Content in the second column
 
 ## What is pattern recognition?
 
-In order to navigate their environments, animals make sense of the sensory information available to them by extracting useful patterns from their sensory inputs. The ability to identify patterns in sensory stimuli is called *pattern recognition*. The patterns that an animal identifies will shape its behavior, so pattern recognition ability affects the animal’s chance of survival.
+Animals only process a fraction of the vast amounts of sensory information available to them. To filter out extraneous information, animals focus their attention on important elements of sensory input. In order to learn what sensory input is important, animals learn to identify useful patterns in their environments as they encounter similar situations over time. The cognitive process involved in extracting important information from the environment is referred to as *pattern recognition*.
 
-Pattern recognition is currently most evolved in humans, and [some](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4141622/) argue that this explains why humans are so advanced in comparison to all other species. 
+Although all living beings use pattern recognition as a way to understand their environments, pattern recognition is currently most evolved in humans. [Some](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4141622/) argue that this is the main reason why humans are so advanced in comparison to all other species. 
 
 ![Senses](sens.jpg)
 
