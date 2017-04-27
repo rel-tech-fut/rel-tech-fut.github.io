@@ -66,7 +66,12 @@ Flying Birds | ![fb](bird.jpg)
 
 ### The Moral Pop-Out Effect
 
-Recent 
+Recent [research](https://www.ncbi.nlm.nih.gov/pubmed/24747444) by Gantman and Van Bavel seems to indicate that people perceive religious and moral images more readily than other types of images.
+
+ >Participants correctly identified moral words more frequently than non-moral words-a phenomenon 
+ >we term the moral pop-out effect. The moral pop-out effect was only evident when stimuli were 
+ >presented at durations that made them perceptually ambiguous, but not when the stimuli were presented too quickly to perceive or slowly enough to easily perceive. 
+  >The moral pop-out effect was not moderated by exposure to harm and cannot be explained by differences in arousal, valence, or extremity
 
 It is important to note, however, that there is still [debate](http://perception.yale.edu/papers/16-Firestone-Scholl-TICS.pdf) about the moral pop-out effect. Scientists still need to conduct more research on the topic.
 
