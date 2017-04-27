@@ -25,7 +25,8 @@ In 1982, Roger Tootell conducted an experiment which showed that neurons in thes
 
 ![Retinotopic Mapping](map.jpg)
 
-#### These are images from [Tootell’s](http://science.sciencemag.org/content/218/4575/902) experiment.
+#### Images from [Tootell’s](http://science.sciencemag.org/content/218/4575/902) experiment
+
 
 
 ### **Example** 
