@@ -34,11 +34,12 @@ Although scientists do not have a perfectly clear understanding on the way the b
 ### **Optical Illusions** 
 
 These optical illusions stimulate the orientation columns in our occipital lobes becuase they involve lines and angles.
+
 Index | Image
 ------------ | -------------
-Angle patterns determine how we perceive depth.| ![d](dep.jpg)
-2 | Content in the second column
-3 | Content from cell 2
+Angle patterns help determine how we perceive depth.| ![d](dep.jpg)
+Angle patterns like these usually signal a 3-D object. | ![d](shape.jpg)
+dd | ![d](tri.png)
 
 ## What patterns stand out the most to humans?
 
