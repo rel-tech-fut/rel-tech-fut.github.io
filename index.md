@@ -45,7 +45,13 @@ Angles and lines like these usually signal a 3-D triangle that is actually possi
 
 ### Faces
 
-Given that humans are social animals, it is no surprise that we are wired to find face patterns in our environments. Even newborns seem recognize what patterns indicate faces because they [prefer objects with face-like features over objects with different features] (http://journals.sagepub.com/doi/abs/10.1111/1467-9280.00179).
+Given that humans are social animals, it is no surprise that we are wired to readily find patterns that suggest the presence of a face. Even newborns seem recognize what patterns indicate faces because they [prefer objects with face-like features over objects with different features](http://journals.sagepub.com/doi/abs/10.1111/1467-9280.00179).
+
+Description | Image
+------------ | -------------
+Newborn babies preferred the face-like image.| ![bu](bu.jpg)
+
+
 Scientists are still [unsure](https://pdfs.semanticscholar.org/83c7/c6cf8db20dc68981a076f8ed554916ce2c8e.pdf) about whether face recognition follows the same path as regular object recognition. However, the existence of Prosopagnosia seems to indicate that there is something unique about face recognition. [Prosopagnosia](https://en.wikipedia.org/wiki/Prosopagnosia) patients only have trouble recognizing familiar faces, not other objects.
 
 ### **Optical Illusions: Faces** 
@@ -59,6 +65,8 @@ Washer | ![w](washer.jpg)
 Flying Birds | ![fb](bird.jpg)
 
 ### The Moral Pop-Out Effect
+
+Recent 
 
 It is important to note, however, that there is still [debate](http://perception.yale.edu/papers/16-Firestone-Scholl-TICS.pdf) about the moral pop-out effect. Scientists still need to conduct more research on the topic.
 
