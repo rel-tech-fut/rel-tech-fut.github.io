@@ -4,8 +4,6 @@ Pattern Recognition
 </h1>
 <img src="cude.png" height="50" width="2000">
 
-## What is pattern recognition?
-
 Animals only process a fraction of the vast amounts of sensory information available to them. To handle the large amounts of information, animals focus their attention on important elements of sensory input. In order to know what sensory input is important, animals learn to identify useful patterns in their environments as they encounter similar situations over time. This cognitive process of extracting important information from the environment based on past experience is referred to as *pattern recognition*.
 
 Although all animals beings use pattern recognition as a way to understand their environments, pattern recognition is currently most evolved in humans. [Some](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4141622/) even argue that this is the main reason why humans are so advanced in comparison to all other species. 
@@ -15,13 +13,16 @@ Although all animals beings use pattern recognition as a way to understand their
 Pattern recognition is an integral part of all human thought because it heavily influences the way humans perceive and interact with the world. To illustrate this, we can explore the role pattern recognition plays on the way humans *see*.
 
 ### **Example: Sight**
-Scientists know that the [occipital lobe](http://www.spinalcord.com/occipital-lobe) is the region of the brain that is primarily responsible for processing visual information. 
+Scientists know that the [occipital lobe](http://www.spinalcord.com/occipital-lobe) is the region of the brain primarily responsible for processing visual information. 
 
 The occipital lobe contains different types of neurons that fire depending on different types of visual stimuli. For example, the orientation columns of the occipital cortex contain neurons that specialize in detecting the angles of lines. These neurons allow animals to outline the boundaries of shapes, which allows animals to perceive the shapes of objects.
 
 ![Orientation Columns](col.jpg)
 
+####This figure illustrates the organization of the orientation columns in the brain.
+
 ![Retinotopic Mapping](map.jpg)
+
 ### **Example** 
 Index | Image
 ------------ | -------------
