@@ -34,7 +34,8 @@ Although scientists do not have a perfectly clear understanding on the way the b
 ### **Optical Illusions** 
 
 These optical illusions stimulate the orientation columns in our occipital lobes becuase they involve lines and angles.
--------------------------
+Index | Image
+------------ | -------------
 1 | Content from cell 2
 2 | Content in the second column
 3 | Content from cell 2
@@ -46,11 +47,11 @@ These optical illusions stimulate the orientation columns in our occipital lobes
 ### **Optical Illusions** 
 
 These optical illusions 
-Index | Image
------------- | -------------
-1 | Content from cell 2
-2 | Content in the second column
-3 | Content from cell 2
+| Image
+| -------------
+| Content from cell 2
+| Content in the second column
+| Content from cell 2
 
 ### The Moral Pop-Out Effect
 
