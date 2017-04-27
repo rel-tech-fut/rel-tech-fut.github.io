@@ -126,6 +126,15 @@ Futurist Ray Kurzweil [believes](http://www.newyorker.com/books/page-turner/ray-
 
 Currently, however, neuroscientists are still having trouble understanding the brain, and computer scientists are struggling to create machine learning algorithms that recognize patterns as well as humans do. 
 
+Pattern recognition is a huge umbrella in the field of machine learning. Two subcategories are **clustering** and **classification**.
+
+**Clustering**
+![sc](screenshot.jpg)
+[Click here](http://shabal.in/visuals/kmeans/2.html) to see an animation of k-means clustering.
+
+**Classification**
+![cl](lin.jpg)
+
 ```markdown
 Syntax highlighted code block
 
