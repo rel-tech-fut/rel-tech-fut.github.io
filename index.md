@@ -1,6 +1,6 @@
 # Pattern Recognition
 
-[Introduction](#What-is-pattern-recognition?) | [Interactive](#Try-it)
+[Introduction](##What-is-pattern-recognition?) | [Interactive](#Try-it)
 
 ![d](cude.png) | ![b](stairs.png)
 ------------ | -------------
