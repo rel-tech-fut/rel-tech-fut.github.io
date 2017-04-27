@@ -53,9 +53,13 @@ Angles and lines like these usually signal a 3-D triangle that is actually possi
 
 
 # 2
-## What patterns stand out the most to humans?
+## What patterns stand out the most to humans? 
+Jump to:
+[Section A: Faces](##A)
 
-### Faces
+[Section B: The Moral Pop-Out Effecy](##B)
+## A
+## Faces
 
 Given that humans are social animals, it is no surprise that we are wired to readily find patterns that suggest the presence of a face. Even newborns seem recognize what patterns indicate faces because they [prefer objects with face-like features over objects with different features](http://journals.sagepub.com/doi/abs/10.1111/1467-9280.00179).
 
@@ -76,7 +80,8 @@ Rock | ![rock](rock.jpg)
 Washer | ![w](washer.jpg)
 Flying Birds | ![fb](bird.jpg)
 
-### The Moral Pop-Out Effect
+## B
+## The Moral Pop-Out Effect
 
 Recent [research](https://www.ncbi.nlm.nih.gov/pubmed/24747444) by Gantman and Van Bavel seems to indicate that people perceive religious and moral images more readily than other types of images.
 
