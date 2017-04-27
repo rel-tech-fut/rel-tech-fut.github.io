@@ -31,39 +31,37 @@ In 1982, Roger Tootell conducted an experiment which showed that neurons in thes
 
 Although scientists do not have a perfectly clear understanding on the way the brain learns to assign meaning to visual objects, they do know that the occipital lobe works in conjunction with the temporal and frontal lobes to do so. The [temporal lobe](http://www.spinalcord.com/temporal-lobe) is important to memory formation, and the [frontal lobe](http://www.spinalcord.com/frontal-lobe) is vital to reasoning and learning. Still, it is clear that learning to recognize visual patterns in our environments is the only way we are able to understand what we see.
 
-### **Example** 
-Index | Image
------------- | -------------
+### **Optical Illusions** 
+
+These optical illusions stimulate the orientation columns in our occipital lobes becuase they involve lines and angles.
+-------------------------
 1 | Content from cell 2
 2 | Content in the second column
 3 | Content from cell 2
-4 | Content in the second column
-5 | Content from cell 2
-6 | Content in the second column
-7 | Content from cell 2
-8 | Content in the second column
-9 | Content from cell 2
-10 | Content in the second column
-
-
-Index | Image
------------- | -------------
-1 | Content from cell 2
-2 | Content in the second column
-3 | Content from cell 2
-4 | Content in the second column
-5 | Content from cell 2
-6 | Content in the second column
-7 | Content from cell 2
-8 | Content in the second column
-9 | Content from cell 2
-10 | Content in the second column
 
 ## What patterns stand out the most to humans?
 
 ### Faces
 
+### **Optical Illusions** 
+
+These optical illusions 
+Index | Image
+------------ | -------------
+1 | Content from cell 2
+2 | Content in the second column
+3 | Content from cell 2
+
 ### The Moral Pop-Out Effect
+
+### **Optical Illusions** 
+
+These optical illusions 
+Index | Image
+------------ | -------------
+1 | Content from cell 2
+2 | Content in the second column
+3 | Content from cell 2
 
 ## What patterns stand out the most to humans?
 
