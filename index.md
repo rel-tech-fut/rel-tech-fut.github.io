@@ -1,6 +1,9 @@
+![](stairs.jpg)
 # Pattern Recognition
 
-[Introduction](##What-is-pattern-recognition?) | [Interactive](#Try-it)
+[What is pattern recognition?](## What-is-pattern-recognition?) | [Interactive](##Try-it)
+[What patterns stand out the most to humans?](##-What-is-pattern-recognition?) | [Interactive](##Try-it)
+[What about artificial intelligence?](## What-is-pattern-recognition?) | [Interactive](##Try-it)
 
 ![d](cude.png) | ![b](stairs.png)
 ------------ | -------------
@@ -28,7 +31,10 @@ Pattern recognition is an integral part of all human thought because it heavily 
 
 ### Faces
 
-### The 
+### The Moral Pop-Out Effect
+
+## What patterns stand out the most to humans?
+
 
 ```markdown
 Syntax highlighted code block
