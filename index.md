@@ -19,9 +19,10 @@ The occipital lobe contains different types of neurons that fire depending on di
 
 ![Orientation Columns](col.jpg)
 
-####This figure illustrates the organization of the orientation columns in the brain.
+#### This figure illustrates the organization of the orientation columns in the brain.
 
 ![Retinotopic Mapping](map.jpg)
+
 
 ### **Example** 
 Index | Image
