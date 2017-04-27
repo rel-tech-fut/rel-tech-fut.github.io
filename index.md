@@ -4,7 +4,7 @@ Pattern Recognition
 </h1>
 <img src="cude.png" height="50" width="2000">
 
-### Jump to: 
+Jump to: 
 [Section 1: Intro to Pattern Recognition](#1)
 
 [Section 2: Important Pattern](#2)
