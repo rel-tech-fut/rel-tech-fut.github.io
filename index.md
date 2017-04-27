@@ -126,14 +126,15 @@ Futurist Ray Kurzweil [believes](http://www.newyorker.com/books/page-turner/ray-
 
 Currently, however, neuroscientists are still having trouble understanding the brain, and computer scientists are struggling to create machine learning algorithms that recognize patterns as well as humans do. 
 
-Pattern recognition is a huge umbrella in the field of machine learning. Two subcategories are **clustering** and **classification**.
+Pattern recognition is a huge umbrella term in the field of machine learning. Two subcategories are **clustering** and **linear classification**.
 
 ## Clustering
 
 ![sc](screenshot.jpg)
 
 Clustering involves finding patterns in data by finding groups of related data points.
-A method to do this is called k-means clustering 
+A method to do this is called **k-means clustering.**
+The intuition behind is simple. The goal is to minimize mean distance of each point to the center of its cluster.
 
 [Click here](http://shabal.in/visuals/kmeans/2.html) to see an animation of k-means clustering.
 
@@ -169,7 +170,11 @@ def getCentroids(dataSet, labels, k):
     # that centroid's label) you should randomly re-initialize it.
 ```
 
-## Classification
-![cl](lin.png)
+## Linear Classification
+
+<img src="lin.png" height="100" width="200">
+
+Liner classification in
+
 
 
