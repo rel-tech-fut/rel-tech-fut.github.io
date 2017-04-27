@@ -13,7 +13,7 @@ Jump to:
 [Section 3: AI and Pattern Recognition](#3)
 
 # 1
-## What is pattern recognition?
+# What is pattern recognition?
 
 Animals only process a fraction of the vast amounts of sensory information available to them. To handle the large amounts of information, animals focus their attention on important elements of sensory input. In order to know what sensory input is important, animals learn to identify useful patterns in their environments as they encounter similar situations over time. This cognitive process of extracting important information from the environment based on past experience is referred to as *pattern recognition*.
 
@@ -53,13 +53,14 @@ Angles and lines like these usually signal a 3-D triangle that is actually possi
 
 
 # 2
-## What patterns stand out the most to humans? 
+# What patterns stand out the most to humans? 
 Jump to:
-[Section A: Faces](##A)
 
-[Section B: The Moral Pop-Out Effecy](##B)
-## A
-## Faces
+[Section A: Faces](#A)
+
+[Section B: The Moral Pop-Out Effecy](#B)
+# A
+# Faces
 
 Given that humans are social animals, it is no surprise that we are wired to readily find patterns that suggest the presence of a face. Even newborns seem recognize what patterns indicate faces because they [prefer objects with face-like features over objects with different features](http://journals.sagepub.com/doi/abs/10.1111/1467-9280.00179).
 
