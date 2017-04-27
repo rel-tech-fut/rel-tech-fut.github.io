@@ -134,7 +134,7 @@ Pattern recognition is a huge umbrella term in the field of machine learning. Tw
 
 Clustering involves finding patterns in data by finding groups of related data points.
 A method to do this is called **k-means clustering.**
-The intuition behind is simple. The goal is to minimize mean distance of each point to the center of its cluster.
+The intuition behind it is simple. The goal is to minimize the mean distance of each point to the center of its cluster.
 
 [Click here](http://shabal.in/visuals/kmeans/2.html) to see an animation of k-means clustering.
 
