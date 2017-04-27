@@ -45,6 +45,8 @@ Angles and lines like these usually signal a 3-D triangle that is actually possi
 
 ### Faces
 
+Given that humans are social animals, it is no surprise that we are wired to find face patterns in our environments. Even newborns seem recognize what patterns indicate faces because they [prefer objects with face-like features over objects with different features] (http://journals.sagepub.com/doi/abs/10.1111/1467-9280.00179).
+Scientists are still [unsure](https://pdfs.semanticscholar.org/83c7/c6cf8db20dc68981a076f8ed554916ce2c8e.pdf) about whether face recognition follows the same path as regular object recognition. However, the existence of Prosopagnosia seems to indicate that there is something unique about face recognition. [Prosopagnosia](https://en.wikipedia.org/wiki/Prosopagnosia) patients only have trouble recognizing familiar faces, not other objects.
 
 ### **Optical Illusions: Faces** 
 
