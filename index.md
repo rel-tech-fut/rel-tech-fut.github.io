@@ -172,7 +172,7 @@ def getCentroids(dataSet, labels, k):
 
 ## Linear Classification
 
-<img src="lin.png" height="100" width="200">
+<img src="lin.png" height="200" width="250">
 
 Liner classification in
 
