@@ -27,7 +27,7 @@ In 1982, Roger Tootell conducted an experiment which showed that neurons in thes
 
 #### Images from [Tootell’s experiment](http://science.sciencemag.org/content/218/4575/902) 
 
-Although scientists do not have a perfectly clear understanding on the way the brain learns to assign meaning to visual objects, they do know that the occipital lobe works in conjuction with the temporal and frontal lobes to do so. 
+Although scientists do not have a perfectly clear understanding on the way the brain learns to assign meaning to visual objects, they do know that the occipital lobe works in conjuction with the temporal and frontal lobes to do so. The [temporal lobe](http://www.spinalcord.com/temporal-lobe) is important in the process of memory formation, and the [frontal lobe](http://www.spinalcord.com/frontal-lobe) is vital to reasonaning and learning. 
 
 ### **Example** 
 Index | Image
