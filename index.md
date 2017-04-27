@@ -61,6 +61,7 @@ It is important to note, however, that there is still [debate](http://perception
 ### **Optical Illusions** 
 
 Here are a few examples of foods in which people have perceived the image of Jesus.
+
 Food | Image
 ------------ | -------------
 Toast | ![tst](toast.jpg)
