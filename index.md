@@ -35,7 +35,7 @@ Although scientists do not have a perfectly clear understanding on the way the b
 
 These optical illusions stimulate the orientation columns in our occipital lobes becuase they involve lines and angles.
 
-Index | Image
+Description | Image
 ------------ | -------------
 Angle patterns help determine how we perceive depth.| ![d](dep.jpg)
 Angle patterns like these usually signal a 3-D object. | ![s](shape.jpg)
@@ -48,7 +48,7 @@ Angles and lines like these usually signal a 3-D triangle that is actually possi
 ### **Optical Illusions** 
 
 These optical illusions 
-Index | Image
+I | Image
 ------------ | -------------
 1 | Content from cell 2
 2 | Content in the second column
@@ -56,18 +56,20 @@ Index | Image
 
 ### The Moral Pop-Out Effect
 
+It is important to note, however, that there is still [debate](http://perception.yale.edu/papers/16-Firestone-Scholl-TICS.pdf) about the moral pop-out effect. Scientists still need to conduct more research on the topic.
+
 ### **Optical Illusions** 
 
-These optical illusions 
-Index | Image
+Here are a few examples of foods in which people have perceived the image of Jesus.
+Food | Image
 ------------ | -------------
-1 | Content from cell 2
-2 | Content in the second column
-3 | Content from cell 2
+Toast | ![tst](toast.jpg)
+Orange | ![orange](orange.jpg)
+Pizza | ![pizza](pizza.jpg)
 
 This phenomena is not limited to Christian cultures. In Islamic cultures, there are often reports of appearances of Arabic religious words on objects as well. This is a [fish](https://www.theguardian.com/uk/2006/feb/02/paullewis) called "Allah."
 
-It is important to note, however, that there is still [debate](http://perception.yale.edu/papers/16-Firestone-Scholl-TICS.pdf) about the moral pop-out effect.
+
 
 ## What about artificial intelligence?
 
