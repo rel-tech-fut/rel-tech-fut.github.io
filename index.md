@@ -4,11 +4,11 @@ Pattern Recognition
 </h1>
 <img src="cude.png" height="50" width="2000">
 
-[Section 1](#Section-1)
-[Section 2](#Section-2)
-[Section 3](#Section-3)
+[Section 1](#1)
+[Section 2](#2)
+[Section 3](#3)
 
-# Section 1
+# 1
 ## What is pattern recognition?
 
 Animals only process a fraction of the vast amounts of sensory information available to them. To handle the large amounts of information, animals focus their attention on important elements of sensory input. In order to know what sensory input is important, animals learn to identify useful patterns in their environments as they encounter similar situations over time. This cognitive process of extracting important information from the environment based on past experience is referred to as *pattern recognition*.
@@ -46,7 +46,7 @@ Angle patterns help determine how we perceive depth.| ![d](dep.jpg)
 Angle patterns like these usually signal a 3-D object. | ![s](shape.jpg)
 Angles and lines like these usually signal a 3-D triangle that is actually possible. | ![t](tri.png)
 
-# Section 2
+# 2
 ## What patterns stand out the most to humans?
 
 ### Faces
@@ -104,7 +104,7 @@ Fish | Image
 ------------ | -------------
 Oscar | ![f](oscar372.jpg)
 
-# Section 3
+# 3
 ## What about artificial intelligence?
 
 ```markdown
