@@ -1,4 +1,4 @@
-![](stairs.png =100x20)
+![](stairs.png)
 # Pattern Recognition
 ![](cude.png)
 
@@ -16,9 +16,6 @@ Although all living beings use pattern recognition as a way to understand their 
 ![Senses](sens.jpg)
 
 Pattern recognition is an integral part of all human thought because it heavily influences the way humans perceive and interact with the world.
-
-
-
 
 ### **Try it!** 
 Index | Image
