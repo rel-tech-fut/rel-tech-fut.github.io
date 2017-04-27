@@ -6,7 +6,9 @@ Pattern Recognition
 
 ### Jump to: 
 [Section 1: Intro to Pattern Recognition](#1)
+
 [Section 2: Important Pattern](#2)
+
 [Section 3: AI and Pattern Recognition](#3)
 
 # 1
