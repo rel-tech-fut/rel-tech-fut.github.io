@@ -4,6 +4,8 @@ Pattern Recognition
 </h1>
 <img src="cude.png" height="50" width="2000">
 
+## What is pattern recognition?
+
 Animals only process a fraction of the vast amounts of sensory information available to them. To handle the large amounts of information, animals focus their attention on important elements of sensory input. In order to know what sensory input is important, animals learn to identify useful patterns in their environments as they encounter similar situations over time. This cognitive process of extracting important information from the environment based on past experience is referred to as *pattern recognition*.
 
 Although all animals beings use pattern recognition as a way to understand their environments, pattern recognition is currently most evolved in humans. [Some](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4141622/) even argue that this is the main reason why humans are so advanced in comparison to all other species. 
